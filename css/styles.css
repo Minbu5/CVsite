@@ -1,11 +1,26 @@
-
+/************************** TAG SELECTORS ********************************************/
 body {
-    background-color: #F0FFF0;
+    background-image: url("../../images/body3.png");
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    min-height: 100vh;
 }
 
 hr {
     border-style: none;
     border-top-style: dotted;
-    border-color: #2D9596;
+    border-color: #265073;
     border-width: 5px;
+    display: inline-block;
+    width: 50%
 }
+h1
+{
+    color: #2D9596
+
+}
+h3 {
+    color: #2D9596
+}
+
+/************************** CLASS SELECTORS ********************************************/
