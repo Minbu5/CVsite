@@ -1,9 +1,8 @@
 /************************** TAG SELECTORS ********************************************/
 body {
-    background-image: url("../images/body3.png");
-    background-repeat: no-repeat;
-    background-size: 100vw 100vh;
-    min-height: 100vh;
+    background-color: #ECF4D6;
+    margin: auto;
+    width: 50%;
 }
 
 hr {
@@ -11,8 +10,8 @@ hr {
     border-top-style: dotted;
     border-color: #265073;
     border-width: 5px;
-    display: inline-block;
-    width: 50%
+    width: 100px;
+    margin: auto;
 }
 h1
 {
@@ -24,3 +23,8 @@ h3 {
 }
 
 /************************** CLASS SELECTORS ********************************************/
+.buttons{
+    display: inline-block
+    background-color: red;
+}
+
